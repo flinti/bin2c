@@ -85,5 +85,5 @@ int main(int argc, char *argv[])
 
 void print_hex(char c)
 {
-	printf("0x\%02hhX", c);
+	printf("0x%02hhX", c);
 }
